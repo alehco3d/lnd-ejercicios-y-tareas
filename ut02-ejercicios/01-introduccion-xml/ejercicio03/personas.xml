@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<empresa>
+    <personas>
+        <id>1</id>
+        <nombre>Juan</nombre>
+        <apellidos>Pérez López</apellidos>
+        <telefono>123456789</telefono>
+        <email>juan.perez@example.com</email>
+        <via>Calle</via>
+        <nombre>Gran Vía</nombre>
+        <numero>100</numero>
+    </personas>
+    <personas>
+        <id>2</id>
+        <nombre>María</nombre>
+        <apellidos>García Fernández</apellidos>
+        <telefono>987654321</telefono>
+        <email>maria.garcia@example.com</email>
+        <via>Avenida</via>
+        <nombre>Constitución</nombre>
+        <numero>50</numero>
+    </personas>
+    <personas>
+        <id>3</id>
+        <nombre>Carlos</nombre>
+        <apellidos>López Martínez</apellidos>
+        <telefono>1122334455</telefono>
+        <email>carlos.lopez@example.com</email>
+        <via>Calle</via>
+        <nombre>Serrano</nombre>
+        <numero>50</numero>
+    </personas>
+    <personas>
+        <id>4</id>
+        <nombre>Ana</nombre>
+        <apellidos>Ruiz Sánchez</apellidos>
+        <telefono>2233445566</telefono>
+        <email>ana.ruiz@example.com</email>
+        <via>Plaza</via>
+        <nombre>Mayor</nombre>
+        <numero>10</numero>
+    </personas>
+    <personas>
+        <id>5</id>
+        <nombre>Laura</nombre>
+        <apellidos>Torres Gómez</apellidos>
+        <telefono>3344556677</telefono>
+        <email>laura.torres@example.com</email>
+        <via>Camino</via>
+        <nombre>El Prado</nombre>
+        <numero>8</numero>
+    </personas>
+</empresa>
